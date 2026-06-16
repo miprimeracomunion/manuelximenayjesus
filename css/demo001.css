@@ -995,12 +995,12 @@ letter-spacing: 3px;
 
 .btnComoLlegar:hover{
   text-decoration: none;
-  background-color: white; 
+  background-color: #f7ebd5; 
   font-family: 'Cantata One', serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-size: 14px;
-  color:#736746;
+  color:#fff;
   height: 45px;
 
    box-shadow: 1px 8px 32px 4px rgba(162,162,162,0.59);
@@ -1157,7 +1157,7 @@ margin-top: 0px;
     border-bottom-color:#ffffff;
 }
 #scroll:hover {
-    background-color:#7b6a90;
+    background-color:#adc5d9;
     opacity:1;filter:"alpha(opacity=100)";
     -ms-filter:"alpha(opacity=100)";
 }
@@ -1413,7 +1413,7 @@ margin-bottom:;}
 
 .btnComoLlegar:hover{
     text-decoration: none;
-  background-color: #f7ebd5; 
+  background-color: #736746; 
   font-family: 'Cantata One', serif;
   font-optical-sizing: auto;
   font-weight: 500;
